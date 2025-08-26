@@ -30,3 +30,23 @@ margin-top: 10px;
     height: 360px;
     border-radius: 20px;
 }
+.round{
+    border-color: white;
+    border-style: solid;
+}
+.image1{
+    justify-content: center;
+    align-items: center;
+}
+
+
+@media  screen and  (min-width:0px) and (max-width:480px){
+.again{ 
+    display: block;
+    flex-direction: column;
+}
+.get{
+    margin-top: 20px;
+    background-color: #7C4EE4;
+}
+}

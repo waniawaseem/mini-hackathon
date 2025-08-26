@@ -1,0 +1,32 @@
+.icon{
+margin-top: 10px;
+}
+.btn1{
+    background-color: #7C4EE4;
+    color: white;
+    border: none;
+   height: 40px;
+   
+}
+.text1{
+    color: #7C4EE4;
+}
+.navbar-nav{
+    gap: 10px;
+}
+.hero{
+    background-color: #7C4EE4;
+    color: white;
+}
+.btn2{
+   border: none;
+   height: 40px; 
+}
+.btn3{
+   border-color: #7C4EE4;
+   height: 40px; 
+}
+.card1{
+    height: 360px;
+    border-radius: 20px;
+}

@@ -38,15 +38,10 @@ margin-top: 10px;
     justify-content: center;
     align-items: center;
 }
-
-
-@media  screen and  (min-width:0px) and (max-width:480px){
-.again{ 
-    display: block;
-    flex-direction: column;
-}
-.get{
-    margin-top: 20px;
+.button-view{
     background-color: #7C4EE4;
+    margin-right: 30px;
+    color: white;
 }
-}
+
+
